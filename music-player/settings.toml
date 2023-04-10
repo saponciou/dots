@@ -1,0 +1,19 @@
+database_url = 'sqlite:/home/sap/.config/music-player/music-player.sqlite3'
+port = 5051
+ws_port = 5052
+addons = [
+    'deezer',
+    'datpiff',
+    'genius',
+    'local',
+    'myvazo',
+    'tononkira',
+    'musicbrainz',
+    'lastfm',
+]
+music_directory = '/home/sap/Music/'
+host = '0.0.0.0'
+device_name = 'Music Player'
+device_id = 'afa49412810b226c758258d54d75ffeb'
+http_port = 5053
+tauri_enable_graphql_server = false

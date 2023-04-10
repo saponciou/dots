@@ -1,0 +1,6 @@
+2023/04/09-19:13:54.601 b149 Creating DB /home/sap/.config/chromium/Default/IndexedDB/https_anonfiles.com_0.indexeddb.leveldb since it was missing.
+2023/04/09-19:13:54.722 b149 Reusing MANIFEST /home/sap/.config/chromium/Default/IndexedDB/https_anonfiles.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/09-19:14:14.771 d79f Level-0 table #5: started
+2023/04/09-19:14:14.827 d79f Level-0 table #5: 830 bytes OK
+2023/04/09-19:14:14.869 d79f Delete type=0 #3
+2023/04/09-19:14:14.870 d79f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
